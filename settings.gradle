@@ -1,0 +1,2 @@
+rootProject.name='Android Studio 3.6 Test'
+include ':app'
